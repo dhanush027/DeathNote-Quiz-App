@@ -3,7 +3,7 @@ This is a CLI Application where the users can take a quiz on the Anime series ca
 
 # Instructions:
 The quiz consists of 20 questions.
-IT is divided into 4 sections,each section has 5 questions.
+It is divided into 4 sections,each section has 5 questions.
 1]Section-1: Every right answer is rewarded with 1 point and a penalty of 1 point for wrong answer.
 2]Section-2: Every right answer is rewarded with 2 point and a penalty of 2 point for wrong answer.
 3]Section-3: Every right answer is rewarded with 3 point and a penalty of 3 point for wrong answer.
